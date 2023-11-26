@@ -1,7 +1,7 @@
 {
     "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
     "mobileBottomRow": 51,
-    "widgetName": "Chart1",
+    "widgetName": "top10",
     "allowScroll": false,
     "dynamicPropertyPathList": [],
     "displayName": "Chart",
@@ -12,7 +12,7 @@
         "visualisations"
     ],
     "topRow": 0,
-    "bottomRow": 33,
+    "bottomRow": 29,
     "parentRowSpace": 10,
     "type": "CHART_WIDGET",
     "hideCard": false,
@@ -99,10 +99,10 @@
     "isLoading": false,
     "mobileTopRow": 19,
     "responsiveBehavior": "fill",
-    "yAxisName": "Revenue($)",
-    "chartName": "Sales Report",
+    "yAxisName": "Name",
+    "chartName": "Top 10",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "mobileLeftColumn": 0,
-    "xAxisName": "Product Line",
+    "xAxisName": "Score",
     "chartType": "BAR_CHART"
 }

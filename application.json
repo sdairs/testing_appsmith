@@ -1,7 +1,7 @@
 {
   "pages": [
     {
-      "id": "Page1",
+      "id": "Stats",
       "isDefault": true
     }
   ],
@@ -10,6 +10,9 @@
   "unreadCommentThreads": 0,
   "color": "#C7F3E3",
   "icon": "bag",
+  "unpublishedAppLayout": {
+    "type": "DESKTOP"
+  },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,

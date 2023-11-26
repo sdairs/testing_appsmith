@@ -13,7 +13,7 @@
       "policies": [],
       "userPermissions": []
     },
-    "pageId": "Page1",
+    "pageId": "Stats",
     "actionConfiguration": {
       "timeoutInMillisecond": 10000,
       "paginationType": "NONE",
@@ -46,7 +46,7 @@
     "userPermissions": [],
     "createdAt": "2023-11-26T16:21:43Z"
   },
-  "id": "Page1_Tinybird_Top_10",
+  "id": "Stats_Tinybird_Top_10",
   "deleted": false,
   "gitSyncId": "656370410cedd9358f73e07b_65637097c93c1859ac2901eb"
 }
